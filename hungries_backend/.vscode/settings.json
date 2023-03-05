@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "*.vscode": true,
+    "*.vscode.*": true,
+    "*node_modules.*": true,
+    "*package-lock": true,
+    "*package": true,
+    "node_modules": true
+  }
+}
